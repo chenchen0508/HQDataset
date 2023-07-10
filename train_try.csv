@@ -1,0 +1,43 @@
+﻿id,text,label,pos
+Sentence: 1,3PSSSS,B-software,CD
+,.,O,.
+Sentence: 2,7,B-software,CD
+,RAT,I-software,NNP
+,.,O,.
+Sentence: 3,The,B-key,DT
+,key,I-key,NN
+,was,O,VBD
+,derived,O,VBN
+,from,O,IN
+,the,B-string,DT
+,MD5,I-string,NNP
+,hash,I-string,NN
+,of,O,IN
+,the,B-string,DT
+,string,I-string,NN
+,HYF54&%9&jkMCXuiS,I-string,NNP
+,.,O,.
+Sentence: 4,3PARA,B-software,CD
+,RAT,I-software,NNP
+,has,O,VBZ
+,a,B-command,DT
+,command,I-command,NN
+,to,O,TO
+,retrieve,O,VB
+,metadata,B-data,NN
+,for,O,IN
+,files,B-file,NNS
+,on,O,IN
+,disk,B-device,NN
+,as,O,RB
+,well,O,RB
+,as,O,IN
+,a,B-command,DT
+,command,I-command,NN
+,to,O,TO
+,list,O,VB
+,the,B-directory,DT
+,current,I-directory,JJ
+,working,I-directory,JJ
+,directory,I-directory,NN
+,.,O,.
